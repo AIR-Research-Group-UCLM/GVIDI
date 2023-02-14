@@ -1,11 +1,12 @@
 <p align="center">
   <img src="./GVIDI_Trans.png" alt="Logo" width=100  height=100>
   <p align="center">
-     <code>GVIDI</code> is a novel hardware and software system that uses AI and AR techniques. The system facilitates the analysis of expedition groups avoiding dispersion. It includes risk assessment to support decision making, and reduces situations that can lead to accidents.
+     <code>GVIDI</code> is a system to improve the safety of groups of hikers based on real-time monitoring and dataset generation..
     <br>
   </p>
 </p>
-# GVIDI: A system to improve the safety of groups of hikers based on real-time monitoring and dataset generation
+
+
 
 ## Description
 GVIDI is a novel system for monitoring real-time group activities in natural environments and generating datasets for forensic analysis. GVIDI software and data can be used by researchers to study how environmental conditions, events, and decisions influence on the safety of expedition groups. 
@@ -15,7 +16,8 @@ GVIDI is a novel system for monitoring real-time group activities in natural env
  - Arduino microcontroller with gyroscopes, accelerometers and Bluetooth connectivity.
  - Mobile app, developed for Android.
  - Cloud store.
-## Prereqisites 
+ 
+## Prerequisites 
 - GCC 12.2
 - Docker 20.10.14
 - Docker-compose 2.14.0
@@ -30,14 +32,10 @@ GVIDI is a novel system for monitoring real-time group activities in natural env
 
 ## Execution ⚙️
 - Arduino: see Arduino libraries.
-- Mobile app: see Android [README file] (Android/README.md).
-- Cloud store (server/client): use [docker-compose.yml] (WebApp/docker-compose.yml).
+- Mobile app: see Android [README file](Android/README.md).
+- Cloud store (server/client): use [docker-compose.yml](WebApp/docker-compose.yml).
 
-
-
-## Generated files
-
-		
+	
 
 ## Contributors
 
