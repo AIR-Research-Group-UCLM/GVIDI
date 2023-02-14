@@ -13,7 +13,7 @@ GVIDI is a novel system for monitoring real-time group activities in natural env
 
 
 ## Components 📋
- - Arduino microcontroller with gyroscopes, accelerometers and Bluetooth connectivity.
+ - Arduino microcontroller with gyroscopes, accelerometers and bluetooth connectivity.
  - Mobile app, developed for Android.
  - Cloud store.
  
@@ -33,7 +33,7 @@ GVIDI is a novel system for monitoring real-time group activities in natural env
 ## Execution ⚙️
 - Arduino: see Arduino libraries.
 - Mobile app: see Android [README file](Android/README.md).
-- Cloud store (server/client): use docker-compose.yml localted in [WebApp](WebApp).
+- Cloud store (server/client): use docker-compose.yml located in [Webapp](Webapp).
 
 	
 
