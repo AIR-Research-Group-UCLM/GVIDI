@@ -15,14 +15,14 @@ GVIDI has the ability to record all the activities of an expedition, creating da
 
 The next figure gives a graphical overview of GVIDI, where three main components can be distinguished.
 <img
-  src="./Images/Figure1.pdf"
+  src="./Images/Figure1.png"
   alt=""
   title=""
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 The general architecture of GVIDI is shown in the figure below.
 <img
-  src="./Images/Figure2.pdf"
+  src="./Images/Figure2.png"
   alt=""
   title=""
   style="display: inline-block; margin: 0 auto; max-width: 300px">
